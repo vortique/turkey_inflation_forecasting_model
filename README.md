@@ -59,7 +59,7 @@ This demonstrates:
 
 ## References
 - Turkish Statistical Institute (TÜİK) — [https://data.tuik.gov.tr](https://data.tuik.gov.tr)
-- Central Bank of the Republic of Turkey (CBRT) — [https://www.tcmb.gov.tr](https://www.tcmb.gov.tr)
+- Central Bank of the Republic of Turkey (TCMB) — [https://www.tcmb.gov.tr](https://www.tcmb.gov.tr)
 - Prophet Documentation — [https://facebook.github.io/prophet/docs](https://facebook.github.io/prophet/docs)
 
 ---
